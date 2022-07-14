@@ -1,0 +1,2 @@
+# Pet Reptiles Classification
+The aim of this project is to build neural network model that detects which reptile species (Bearded Dragon, Blue-Tongued Skink, Leopard Gecko, Panther Chameleon or Veiled Chameleon) is on the image.
